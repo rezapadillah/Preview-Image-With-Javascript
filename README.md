@@ -2,6 +2,6 @@
 Simple Code Preview Image With Javascript
 
 Find Me On :
-  Codepen.io/php
-  dribbble.com/php
-  behance.net/rezapadillah
+  http://Codepen.io/php
+  http://dribbble.com/php
+  http://behance.net/rezapadillah
